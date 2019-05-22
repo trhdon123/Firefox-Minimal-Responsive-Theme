@@ -4,7 +4,7 @@
 /* Contextual toolbar buttons, only show on hover, this is what matters, the rest of the file are just style tweaks I like
  */
 
-
+/*
 :root:not([customizing]) #nav-bar toolbarbutton
  {
     margin-left: -28px !important;
@@ -22,7 +22,7 @@ opacity:1 !important;
 margin-left:0 !important;
 pointer-events: auto !important;
 }
-
+*/
 
 /* auto collapse nav bar height when in stealth mode (not active), kinda jumpy and annoying after a while so let's just comment it for now */
 
